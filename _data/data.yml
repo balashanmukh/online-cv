@@ -68,53 +68,70 @@ experiences:
     - role: Full Stack Web Developer, Module Lead, Scrum Master
       time: 2017 - Present
       company: MNC, India
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
 
     - role: Developer
       time: 2015 - 2017
       company: MNC, India
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: HTML5, CSS3 & Responsive Design
         level: 85%
-
-      - name: Sketch & Photoshop
+        
+      - name: CSS Variables, CSS Grid & Flexbox
+        level: 80%
+        
+      - name: SASS & BootStrap
+        level: 70%
+        
+      - name: Vue JS
+        level: 50%
+        
+      - name: React JS
+        level: 50%
+        
+      - name: Web Components & Stencil JS
+        level: 50%
+        
+      - name: Progreessive Web Apps
+        level: 50%
+        
+      - name: JavaScript
+        level: 90%
+        
+      - name: jQuery
+        level: 80%
+        
+      - name: ES6+
+        level: 85%
+        
+      - name: TypeScript
+        level: 80%
+        
+      - name: D3 js
+        level: 70%
+        
+      - name: Jest, Puppeteer, JSONServer, Faker.js
+        level: 70%
+        
+      - name: Chrome Dev Tools
+        level: 85%
+        
+      - name: DS and Algorithms
+        level: 70%
+        
+      - name: Design Patterns
+        level: 50%
+        
+      - name: Node, Express, PM2
+        level: 85%
+        
+      - name: PHP & PDO
+        level: 85%
+        
+      - name: Python 3
         level: 60%
 
 footer: >
