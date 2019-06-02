@@ -77,11 +77,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5, CSS3 & Responsive Design
+      - name: HTML & CSS
         level: 85%
-        
-      - name: CSS Variables, CSS Grid & Flexbox
-        level: 80%
         
       - name: SASS & BootStrap
         level: 70%
@@ -92,7 +89,7 @@ skills:
       - name: React JS
         level: 50%
         
-      - name: Web Components & Stencil JS
+      - name: Web Components
         level: 50%
         
       - name: Progreessive Web Apps
@@ -113,7 +110,7 @@ skills:
       - name: D3 js
         level: 70%
         
-      - name: Jest, Puppeteer, JSONServer, Faker.js
+      - name: Jest, Faker.js
         level: 70%
         
       - name: Chrome Dev Tools
